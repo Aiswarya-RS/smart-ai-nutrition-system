@@ -1,0 +1,7 @@
+opencv-python
+torchvision
+pillow
+requests
+pyttsx3
+SpeechRecognition
+numpy
