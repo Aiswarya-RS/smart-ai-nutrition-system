@@ -63,6 +63,30 @@ The application provides voice-based feedback for detected food, portion informa
 
 Multiple components are connected together to create an automated food-analysis workflow.
 
+## 📸 Screenshots
+
+### 👁️ AI Eye – Real-Time Object Detection
+
+![AI Eye](ai-eye.png)
+
+---
+
+### 🤖 AIVA – Visual Scanner
+
+![AIVA Visual Scanner](aiva-scanner.png)
+
+---
+
+### 💬 AIVA – Chat Mode
+
+![AIVA Chat Mode](aiva-chat.png)
+
+---
+
+### 🖼️ Visual Assistant Interface
+
+![Visual Assistant](visual-assistant.png)
+
 ---
 
 ## 🔄 System Workflow
